@@ -6,10 +6,10 @@ import time
 # 2. write your consumer and access key/secret key at below four var
 # 3. launch it!
 
-consumer_key = "lJuM4divTjeIhWD60Syxcg"
-consumer_secret = "9Sb09KITA676mxbAVTOCuiQ783GHxiZvl9b24nOkhY"
-ACCESS_KEY ="60047739-yK5QcwMv8wqN3jbQKEZNXLPq5im279kjtdQ3c"
-ACCESS_SECRET = "WTfSBsBFGkEI0Nhbav98T4Bn0c6MdwgM4jnh0h0uxM"
+consumer_key = ""
+consumer_secret = ""
+ACCESS_KEY ="60047739-"
+ACCESS_SECRET = ""
 delay = 0.1
 
 def checkTweetException(e):
